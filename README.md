@@ -3,7 +3,7 @@
 A project to build a website to sell bus tickets for major domestic bus operators. 
 The garage can add the type of car, accompanying services, time and fare, which can be adjusted and customized by the operator.
 
-- Video demo project: https://youtu.be/D46zZiw-984
+- Video demo project(full): https://youtu.be/D46zZiw-984
 
 https://user-images.githubusercontent.com/118416218/217742321-88a88748-5824-4732-beef-b63970649c00.mp4
 
